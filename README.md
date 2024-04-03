@@ -19,3 +19,5 @@ Max-Planck-Gesellschaft zur Förderung der Wissenschaften EV (MPG);
 Agencia de Salut Pública de Barcelona (ASPB).
 
 The repository will hosts code, models, and documentation related to our research to enhance early warning systems for mosquito-borne diseases.
+
+![E4Warning-logos_2](https://github.com/alexRichterBoix/E4WARNING/assets/151857959/787598a9-cb96-4d3c-adfb-0739c3c59d05)
